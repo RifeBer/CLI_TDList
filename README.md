@@ -1,7 +1,8 @@
 # ToDo List Application
 
 This is a simple ToDo List application built using Python and JSON for task management.
-
+# Author 
+Rife
 
 ## Overview
 
