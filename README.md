@@ -18,12 +18,12 @@ This application allows you to:
 - Update the status of a task
 - Delete a task or clear all tasks
 
-### 1. Clone the Repository
+### Clone the Repository
 
 Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/RifeBer/CLI_TDList.git
 cd CLI_TDList
-````
 python main.py
+````
